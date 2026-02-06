@@ -5,17 +5,17 @@ import { getDatabase } from "firebase/database";
 
 var firebaseConfig = {
 
-  apiKey: "AIzaSyCNznRIAQq_7eQjrPCFPq54HpUQ_2TP44k",
+  apiKey: "###############################",
 
-  authDomain: "react-contact-865f8.firebaseapp.com",
+  authDomain: "###############################",
 
-  projectId: "react-contact-865f8",
+  projectId: "########################",
 
-  storageBucket: "react-contact-865f8.firebasestorage.app",
+  storageBucket: "#############################",
 
-  messagingSenderId: "982468323410",
+  messagingSenderId: "################################",
 
-  appId: "1:982468323410:web:2a344aa812128ade65578b"
+  appId: "######################################"
 
 };
 
